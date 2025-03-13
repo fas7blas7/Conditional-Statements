@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\bin\Debug\net8.0\3-NumbersAsWords.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\bin\Debug\net8.0\3-NumbersAsWords.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\bin\Debug\net8.0\3-NumbersAsWords.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\bin\Debug\net8.0\3-NumbersAsWords.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\bin\Debug\net8.0\3-NumbersAsWords.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\3-NumbersAsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\3-NumbersAsWords.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\3-NumbersAsWords.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\3-NumbersAsWords.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\3-NumbersAsWords.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\refint\3-NumbersAsWords.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\3-NumbersAsWords.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\3-NumbersAsWords.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\3-NumbersAsWords\obj\Debug\net8.0\ref\3-NumbersAsWords.dll
