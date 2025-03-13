@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\bin\Debug\net8.0\2-EvenOrOdd.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\bin\Debug\net8.0\2-EvenOrOdd.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\bin\Debug\net8.0\2-EvenOrOdd.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\bin\Debug\net8.0\2-EvenOrOdd.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\bin\Debug\net8.0\2-EvenOrOdd.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\2-EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\2-EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\2-EvenOrOdd.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\2-EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\2-EvenOrOdd.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\refint\2-EvenOrOdd.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\2-EvenOrOdd.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\2-EvenOrOdd.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\2-EvenOrOdd\obj\Debug\net8.0\ref\2-EvenOrOdd.dll
