@@ -116,6 +116,94 @@ namespace _3_NumbersAsWords
 
 ---
 
+### 4️⃣ Greater Number 🔢
+
+```csharp
+// Determine the greater of two numbers
+
+namespace _4_GreaterNumber
+{
+    internal class GreaterNumber
+    {
+        static void Main(string[] args)
+        {
+            int firstNumber = int.Parse(Console.ReadLine());
+            int secondNumber = int.Parse(Console.ReadLine());
+
+            if (firstNumber > secondNumber)
+            {
+                Console.WriteLine($"Greater number: {firstNumber}");
+            }
+            else
+            {
+                if (firstNumber < secondNumber)
+                {
+                    Console.WriteLine($"Greater number: {secondNumber}");
+                }
+            }
+        }
+    }
+}
+```
+
+---
+
+### 5️⃣ Guess The Password 🔑
+
+```csharp
+// Check if the entered password is correct
+
+namespace _5_GuessThePassword
+{
+    internal class GuessThePassword
+    {
+        static void Main(string[] args)
+        {
+            string password = Console.ReadLine();
+
+            if (password == "s3cr3t!")
+            {
+                Console.WriteLine("Welcome");
+            }
+            else
+            {
+                Console.WriteLine("Wrong password!");
+            }
+        }
+    }
+}
+```
+
+---
+
+### 6️⃣ Boiling Water 💧
+
+```csharp
+// Check if the water is boiling
+
+namespace _6_BoilingWater
+{
+    internal class BoilingWater
+    {
+        static void Main(string[] args)
+        {
+            int temperature = int.Parse(Console.ReadLine());
+
+            if (temperature > 100)
+            {
+                Console.WriteLine("The water is boiling");
+            }
+            else
+            {
+                Console.WriteLine("The water is not hot enough");
+            }
+        }
+    }
+}
+```
+
+---
+
 ### 🚀 How to Run
 
 1. Clone the repository:
