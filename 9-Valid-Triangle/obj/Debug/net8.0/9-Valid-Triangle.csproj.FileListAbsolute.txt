@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\bin\Debug\net8.0\9-Valid-Triangle.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\bin\Debug\net8.0\9-Valid-Triangle.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\bin\Debug\net8.0\9-Valid-Triangle.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\bin\Debug\net8.0\9-Valid-Triangle.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\bin\Debug\net8.0\9-Valid-Triangle.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\9-Valid-Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\9-Valid-Triangle.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\9-Valid-Triangle.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\9-Valid-Triangle.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\9-Valid-Triangle.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\refint\9-Valid-Triangle.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\9-Valid-Triangle.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\9-Valid-Triangle.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\9-Valid-Triangle\obj\Debug\net8.0\ref\9-Valid-Triangle.dll
