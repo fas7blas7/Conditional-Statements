@@ -8,9 +8,9 @@ This repository contains a collection of simple coding exercises written in C#. 
 
 ### 1️⃣ Freezing Weather ❄️
 
-```csharp
-// Display a message if the temperature is freezing
+// This program checks if the entered temperature is freezing (≤ 0°C) and prints a message if true.
 
+```csharp
 namespace _1_FreezingWeather
 {
     internal class Program
@@ -31,9 +31,9 @@ namespace _1_FreezingWeather
 
 ### 2️⃣ Even or Odd 🔢
 
-```csharp
-// Check if a number is even or odd
+// Determines whether the given number is even or odd.
 
+```csharp
 namespace _2_EvenOrOdd
 {
     internal class EvenOrOdd
@@ -58,9 +58,9 @@ namespace _2_EvenOrOdd
 
 ### 3️⃣ Numbers as Words 📝
 
-```csharp
-// Convert a number (1-9) to its word representation
+// Converts a number between 1 and 9 to its corresponding word.
 
+```csharp
 namespace _3_NumbersAsWords
 {
     internal class NumbersAsWords
@@ -118,9 +118,9 @@ namespace _3_NumbersAsWords
 
 ### 4️⃣ Greater Number 🔢
 
-```csharp
-// Determine the greater of two numbers
+// Compares two numbers and prints the greater one.
 
+```csharp
 namespace _4_GreaterNumber
 {
     internal class GreaterNumber
@@ -136,10 +136,7 @@ namespace _4_GreaterNumber
             }
             else
             {
-                if (firstNumber < secondNumber)
-                {
-                    Console.WriteLine($"Greater number: {secondNumber}");
-                }
+                Console.WriteLine($"Greater number: {secondNumber}");
             }
         }
     }
@@ -150,9 +147,9 @@ namespace _4_GreaterNumber
 
 ### 5️⃣ Guess The Password 🔑
 
-```csharp
-// Check if the entered password is correct
+// Checks if the entered password matches "s3cr3t!".
 
+```csharp
 namespace _5_GuessThePassword
 {
     internal class GuessThePassword
@@ -178,9 +175,9 @@ namespace _5_GuessThePassword
 
 ### 6️⃣ Boiling Water 💧
 
-```csharp
-// Check if the water is boiling
+// Determines if the water temperature is above 100°C.
 
+```csharp
 namespace _6_BoilingWater
 {
     internal class BoilingWater
@@ -196,6 +193,98 @@ namespace _6_BoilingWater
             else
             {
                 Console.WriteLine("The water is not hot enough");
+            }
+        }
+    }
+}
+```
+
+---
+
+### 7️⃣ Speed Info 🚗
+
+// Classifies a given speed as "Slow" or "Fast" based on a threshold.
+
+```csharp
+namespace _7_SpeedInfo
+{
+    internal class SpeedInfo
+    {
+        static void Main(string[] args)
+        {
+            double speed = double.Parse(Console.ReadLine());
+
+            if (speed <= 30)
+            {
+                Console.WriteLine("Slow");
+            }
+            else
+            {
+                Console.WriteLine("Fast");
+            }
+        }
+    }
+}
+```
+
+---
+
+### 8️⃣ Ticket Price 🎟️
+
+// Determines the ticket price based on whether the user is a student or regular customer.
+
+```csharp
+namespace _8_TicketPrice
+{
+    internal class TicketPrice
+    {
+        static void Main(string[] args)
+        {
+            string ticketType = Console.ReadLine();
+            double studentTicketPrice = 1.00;
+            double regularTicketPrice = 1.60;
+
+            if(ticketType == "student")
+            {
+                Console.WriteLine($"${studentTicketPrice:F2}");
+            }
+            else if (ticketType == "regular")
+            {
+                Console.WriteLine($"${regularTicketPrice:F2}");
+            }
+            else
+            {
+                Console.WriteLine("Invalid ticket type!");
+            }
+        }
+    }
+}
+```
+
+---
+
+### 9️⃣ Valid Triangle 🔺
+
+// Checks if three given side lengths can form a valid triangle.
+
+```csharp
+namespace _9_Valid_Triangle
+{
+    internal class ValidTriangle
+    {
+        static void Main(string[] args)
+        {
+            int sideA = int.Parse(Console.ReadLine());
+            int sideB = int.Parse(Console.ReadLine());
+            int sideC = int.Parse(Console.ReadLine());
+
+            if (sideA < sideB + sideC && sideB < sideA + sideC && sideC < sideA + sideB)
+            {
+                Console.WriteLine("Valid Triangle");
+            }
+            else
+            {
+                Console.WriteLine("Invalid Triangle");
             }
         }
     }
