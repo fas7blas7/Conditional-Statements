@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\bin\Debug\net8.0\7-SpeedInfo.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\bin\Debug\net8.0\7-SpeedInfo.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\bin\Debug\net8.0\7-SpeedInfo.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\bin\Debug\net8.0\7-SpeedInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\bin\Debug\net8.0\7-SpeedInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\7-SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\7-SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\7-SpeedInfo.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\7-SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\7-SpeedInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\refint\7-SpeedInfo.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\7-SpeedInfo.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\7-SpeedInfo.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\7-SpeedInfo\obj\Debug\net8.0\ref\7-SpeedInfo.dll
