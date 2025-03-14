@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\bin\Debug\net8.0\4-GreaterNumber.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\bin\Debug\net8.0\4-GreaterNumber.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\bin\Debug\net8.0\4-GreaterNumber.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\bin\Debug\net8.0\4-GreaterNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\bin\Debug\net8.0\4-GreaterNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\4-GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\4-GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\4-GreaterNumber.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\4-GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\4-GreaterNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\refint\4-GreaterNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\4-GreaterNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\4-GreaterNumber.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\COND-STATEMENTS-SLN\4-GreaterNumber\obj\Debug\net8.0\ref\4-GreaterNumber.dll
